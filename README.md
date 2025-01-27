@@ -1,2 +1,1 @@
-# health
-Next.js Application
+## Next.js App Router Course - Starter
